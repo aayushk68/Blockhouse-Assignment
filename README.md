@@ -31,6 +31,10 @@ The final execution strategy was formulated using principles from the **Almgren-
 * The proposed execution framework uses the time-varying `C_t` to intelligently schedule trades, balancing the costs of market impact and price risk.
 
 ---
+## 💿 Data
+
+To ensure the analysis is reproducible, the data file for one of the three tickers, **FROG**, has been included in the `/data` folder.
+The other two data files (**CRWV** and **SOUN**) were excluded from this repository as they exceed GitHub's 25 MB file size limit. All three original data files were provided as part of the work trial and are from **Databento**.
 
 ## 🚀 How to Run
 
