@@ -1,13 +1,11 @@
-# Blockhouse-Assignment
 # Algorithmic Execution: Price Impact Modeling & Optimization
-
-This repository contains the solution for the Blockhouse Work Trial Task. The project involves a deep dive into high-frequency limit order book data to model temporary price impact and formulate a risk-averse optimal execution strategy.
+The project involves a deep dive into high-frequency limit order book data to model temporary price impact and formulate a risk-averse optimal execution strategy.
 
 ---
 
 ## 📝 Problem Statement
 
-The assignment consists of two main tasks:
+The project consists of two main tasks:
 1.  **Model the temporary price impact function `g_t(x)`**. This involves analyzing order book data for three tickers (FROG, CRWV, SOUN) to propose and justify a model superior to a simple linear approximation.
 2.  **Formulate a mathematical framework for an optimal execution algorithm**. This algorithm should aim to execute a large order `S` over `N` periods while minimizing execution costs.
 
